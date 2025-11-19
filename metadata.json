@@ -1,0 +1,5 @@
+{
+  "name": "SemioScope: Film Analysis",
+  "description": "A deep-dive semiotic analysis tool for cinema. Upload a film still to deconstruct its signifiers, signifieds, and underlying cultural myths using advanced AI.",
+  "requestFramePermissions": []
+}
